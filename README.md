@@ -1,1 +1,1 @@
-# stu2001321042-hw3
+[ЛИНК КЪМ JIRA](https://stu2001321042.atlassian.net/jira/software/projects/GG/boards/2)
